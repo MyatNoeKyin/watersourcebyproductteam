@@ -1,0 +1,6 @@
+# Keep repository focused on the deployable landing page
+html/*_BEFORE_*.html
+html/*CURRENT_BEFORE_RESET*.html
+html/watersource_client_preview_v*.html
+html/watersource_client_preview_v55_embedded_APPROVED_BACKUP.html
+.DS_Store
