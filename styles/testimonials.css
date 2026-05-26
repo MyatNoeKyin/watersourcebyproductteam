@@ -49,6 +49,9 @@
   font-size:15px;
   line-height:1.45;
 }
+.testimonial-card p + p{
+  margin-top:14px;
+}
 .testimonial-card .byline{
   display:block;
   margin-top:10px;
@@ -82,4 +85,3 @@
   .testimonial-card .byline{font-size:16px}
   .testimonials-cta .btn{font-size:18px;min-height:48px}
 }
-
